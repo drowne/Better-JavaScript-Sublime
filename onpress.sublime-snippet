@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$("#${1:elementID}").onpress(${2:callback});]]></content>
+    <tabTrigger>on</tabTrigger>
+    <scope>source.js</scope>
+    <description>Jquerymobile onpress handler</description>
+</snippet>

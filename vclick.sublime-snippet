@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[\$("#${1:elementID}").live('vclick', ${2:callback});]]></content>
-    <tabTrigger>vclick</tabTrigger>
-    <scope>source.js</scope>
-    <description>Jquery vclick handler</description>
-</snippet>
