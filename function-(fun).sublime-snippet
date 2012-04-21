@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[function ${1:function_name} (${2:argument}) {
-	${0:// body...}
+    <content><![CDATA[${1:function_name} : function(${2:}) {
+
 }]]></content>
     <tabTrigger>fun</tabTrigger>
     <scope>source.js</scope>
